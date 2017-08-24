@@ -24,7 +24,7 @@
 
 #define UNUSED __attribute__((unused))
 
-#define BUFFER_SIZE 1000
+#define BUFFER_SIZE 1
 
 static char **buffer;
 static int buffer_fill = 0;
